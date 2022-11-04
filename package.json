@@ -1,6 +1,7 @@
 {
   "name": "poopmap",
   "version": "0.1.0",
+  "homepage": "https://camimgh.github.io/poopmap"
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -19,6 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -43,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "@types/leaflet": "^1.9.0"
+    "@types/leaflet": "^1.9.0",
+    "gh-pages": "^4.0.0"
   }
 }
