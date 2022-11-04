@@ -8,3 +8,12 @@
 .marker {
   max-height: 300px;
 }
+
+.priority {
+  z-index: 50;
+}
+
+.helpControl {
+  padding-left: 50px;
+  padding-top: 10px;
+}
