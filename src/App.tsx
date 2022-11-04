@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, } from 'react-leaflet'
 import goodPoopData from './data/goodPoopData.json'
 import badPoopData from './data/badPoopData.json'
 import PoopMarker from './PoopMarker'
