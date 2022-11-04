@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poopmap/static/css/main.ef32511e.css",
+    "main.js": "/poopmap/static/js/main.91257438.js",
+    "static/js/787.223672e0.chunk.js": "/poopmap/static/js/787.223672e0.chunk.js",
+    "index.html": "/poopmap/index.html",
+    "main.ef32511e.css.map": "/poopmap/static/css/main.ef32511e.css.map",
+    "main.91257438.js.map": "/poopmap/static/js/main.91257438.js.map",
+    "787.223672e0.chunk.js.map": "/poopmap/static/js/787.223672e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef32511e.css",
+    "static/js/main.91257438.js"
+  ]
+}
