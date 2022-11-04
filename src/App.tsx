@@ -8,7 +8,7 @@ import PoopMarker from './PoopMarker'
 function App() {
   return (
   <div>
-   <MapContainer center={[42.359331586138204, -71.09311744384267]} zoom={13} scrollWheelZoom={false}>
+   <MapContainer center={[42.359331586138204, -71.09311744384267]} zoom={17} scrollWheelZoom={true}>
   <TileLayer
     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
