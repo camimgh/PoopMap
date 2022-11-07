@@ -10,7 +10,7 @@ import Button from 'react-bootstrap/Button'
 
 function App() {
   function HelpControl() {
-    const [show, setShow] = React.useState(false);
+    const [show, setShow] = React.useState(true);
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
     const helpButton = (
